@@ -1,6 +1,6 @@
 # Python-Auto-Clicker
 This is a simple auto-clicker made using python. This program clicks the area 
-the cursor is pointed at. For this to work, you will need some things.
+the cursor is pointed at. For this to work, you will need to have Python and Pyautogui installed.
 
 - [Python](https://www.python.org/downloads) 
 - [Pyautogui](https://pypi.org/project/PyAutoGUI) 
